@@ -41,3 +41,6 @@ Aujourd’hui, les hypothèses  que l’équipe souhaite tester sur le terrain s
 2. Des réponses concrètes aux questions des agriculteurs concernant la gestion des bioagresseurs sans pesticides permettraient de les engager dans une démarche de réduction des produits phytosanitaires.
 3. La labellisation ou certification des productions avec utilisation réduite de produits phytosanitaires permettraient d’engager plus d’agriculteurs à initier cette démarche.
 
+![Présentation des expériences d'agriculteurs sur une carte de France Métropolitaine. À droite, une fiche présentant un résumé de l'exploitation de l'agriculteur](/img/startups/peps/carte.png)
+
+![Présentation detaillée de l'exploitation de l'agriculteur avec les caractéristiques principales ainsi qu'une description générale](/img/startups/peps/details.png)
