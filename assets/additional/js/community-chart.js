@@ -25,7 +25,7 @@ new Chart(document.querySelector('canvas'), {
     type: 'line',
     data: {
         datasets: [{
-            data: datasets.dinsic.past,
+            data: datasets.dinum.past,
             label: 'Agents DINUM ', // trailing space to ensure legend complies with French typography rules
             backgroundColor: '#EAE5A2', // color scheme: credit http://www.colorschemer.com/schemes/viewscheme.php?id=10785
             steppedLine: true,
