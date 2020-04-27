@@ -8,8 +8,7 @@ missions:
     status: independent
   - start: '2019-05-13'
     end: '2020-05-13'
-    status: admin
-    employer: DINSIC
+    status: dinum
 startups:
     - transport
 ---

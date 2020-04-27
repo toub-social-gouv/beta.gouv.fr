@@ -4,7 +4,7 @@ role: Chargée de déploiement
 missions:
   - start: '2018-05-14'
     end: '2019-06-30'
-    status: dinsic
+    status: dinum
 startups:
     - mes-aides
 previously:

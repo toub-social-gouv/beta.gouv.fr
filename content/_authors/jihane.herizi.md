@@ -7,7 +7,7 @@ missions:
     status: independent
   - start: '2020-01-05'
     end: '2023-01-05'
-    status: dinsic
+    status: dinum
 previously:
   - pass-culture
   - Alpha
