@@ -30,7 +30,6 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "startups"
-    identifier_field: fullname
     label: "Produits"
     label_singular: "Produit"
     folder: "content/_startups"
@@ -54,6 +53,22 @@ collections:
       - label: Status
         name: status
         widget: string
+      - label: Lien vers le produit
+        name: link
+        widget: string
+        required: false
+      - label: Lien vers le code source
+        name: repository
+        widget: string
+        required: false
+      - label: Email de contat
+        name: contact
+        widget: string
+        required: false
+      - label: Statistiques d'usage publiques
+        name: stats
+        widget: boolean
+        required: false
       - label: "Date de début de l'investigation"
         name: "start"
         widget: "datetime"

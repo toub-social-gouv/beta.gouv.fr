@@ -15,6 +15,10 @@ mapping:
   "start":
     type:      date
     required:  yes
+  "product_launch_date":
+    type:      date
+  "national_scale_date":
+    type:      date
   "end":
     type:      date
   "incubator":
