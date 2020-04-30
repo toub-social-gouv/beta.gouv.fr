@@ -24,7 +24,7 @@ mapping:
               type:      str
             "status":
               type:      str
-              assert:    "['dinsic','service','independent','admin'].include?(val)"
+              assert:    "['service','independent','admin'].include?(val)"
               required:  yes
             "employer":
               type:      str
